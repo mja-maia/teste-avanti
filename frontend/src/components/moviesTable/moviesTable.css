@@ -1,0 +1,14 @@
+.moviesTable{
+  margin-top: 20px;
+}
+ 
+
+.fa-trash-alt,
+.fa-pencil-alt {
+  color: white;
+  fill: white;
+}
+
+.btn-edit{
+  margin-left: 10px;
+}
